@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore\shell\Applications\Page Modes\ChromeControls.js</path><id>sitecore\shell\Applications\Page Modes\ChromeControls.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>jY0LJYE6EEbaG8Bp6iCBgQ==</oldHashCode><newHashCode>sb61v8EJpai3V240riEZEA==</newHashCode></changeFile>

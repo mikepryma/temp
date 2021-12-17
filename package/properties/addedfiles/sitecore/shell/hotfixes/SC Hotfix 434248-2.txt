@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><addFile><collisionbehavior></collisionbehavior><path>sitecore\shell\hotfixes\SC Hotfix 434248-2.txt</path><id>sitecore\shell\hotfixes\SC Hotfix 434248-2.txt</id><parent></parent><file></file><hashCode>QYs4RXta/XArbD8/xxkXYQ==</hashCode></addFile>

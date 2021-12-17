@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore\shell\client\Sitecore\ExperienceEditor\RibbonPageCode.js</path><id>sitecore\shell\client\Sitecore\ExperienceEditor\RibbonPageCode.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>dQTz9g8lY2E/cfl0HcMsKg==</oldHashCode><newHashCode>t7o1mKT9yXIfM5DHoXCXYQ==</newHashCode></changeFile>

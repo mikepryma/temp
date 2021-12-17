@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore\shell\client\Sitecore\ExperienceEditor\Dialogs\InsertPage\InsertPagePageCode.js</path><id>sitecore\shell\client\Sitecore\ExperienceEditor\Dialogs\InsertPage\InsertPagePageCode.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>DyBU+eJHgPI6ZPIF2PlRnQ==</oldHashCode><newHashCode>638yRrzqwCviBru045T4Qg==</newHashCode></changeFile>

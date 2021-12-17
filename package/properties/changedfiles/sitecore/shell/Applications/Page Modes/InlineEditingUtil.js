@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore\shell\Applications\Page Modes\InlineEditingUtil.js</path><id>sitecore\shell\Applications\Page Modes\InlineEditingUtil.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>1tjBvm9SF4g2UVCtFYQIkw==</oldHashCode><newHashCode>eKaqvHgn18GSBFWFlZraqg==</newHashCode></changeFile>

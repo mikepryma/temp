@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore modules\Web\ExperienceForms\scripts\form.validate.js</path><id>sitecore modules\Web\ExperienceForms\scripts\form.validate.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>Qq3mDMYTJDgWWtu6Xabuww==</oldHashCode><newHashCode>gU2uNvAYU7O/pat2fCJEVQ==</newHashCode></changeFile>

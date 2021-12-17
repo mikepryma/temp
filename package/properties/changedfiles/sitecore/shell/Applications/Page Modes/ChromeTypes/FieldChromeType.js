@@ -1,0 +1,2 @@
+﻿version=2.0
+xml=<?xml version="1.0" encoding="utf-8"?><changeFile><collisionbehavior></collisionbehavior><path>sitecore\shell\Applications\Page Modes\ChromeTypes\FieldChromeType.js</path><id>sitecore\shell\Applications\Page Modes\ChromeTypes\FieldChromeType.js</id><parent></parent><file></file><originalfile></originalfile><oldHashCode>pS98LwG61HMD47oT5aEveg==</oldHashCode><newHashCode>X/QCzl5slOR56fUuV3l6jA==</newHashCode></changeFile>
